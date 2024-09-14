@@ -1,0 +1,36 @@
+body {
+  background-color: #0f0f0f;
+}
+/* .yt-scrollbar::-webkit-scrollbar {
+  width: 10px;
+}
+
+.yt-scrollbar::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 10px;
+}
+
+.yt-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #272727;
+}
+
+.yt-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+} */
+/* -------------------------------------------- */
+.yt-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.yt-scrollbar::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 5px;
+}
+
+.yt-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
+.yt-scrollbar::-webkit-scrollbar-track {
+  background: #272727;
+}
