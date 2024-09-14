@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8cb8b81.css",
+    "main.js": "/static/js/main.36399f99.js",
+    "static/media/yt_studio_logo_white.svg": "/static/media/yt_studio_logo_white.3972393d466cdd402034a7af606d89c7.svg",
+    "index.html": "/index.html",
+    "main.e8cb8b81.css.map": "/static/css/main.e8cb8b81.css.map",
+    "main.36399f99.js.map": "/static/js/main.36399f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cb8b81.css",
+    "static/js/main.36399f99.js"
+  ]
+}
